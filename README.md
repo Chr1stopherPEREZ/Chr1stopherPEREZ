@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://64.media.tumblr.com/e74caa35f8e76dc32e9170302b43597e/47e520eb5d3cf2db-b5/s540x810/fb10dacf674cb5726091371aa755bee47d7124b0.gif">
+    <img src="https://64.media.tumblr.com/e74caa35f8e76dc32e9170302b43597e/47e520eb5d3cf2db-b5/s540x810/fb10dacf674cb5726091371aa755bee47d7124b0.gifv">
 </div>
 
 <h1 align="center">Hi :video_game:, I'm Christopher PEREZ</h1>
