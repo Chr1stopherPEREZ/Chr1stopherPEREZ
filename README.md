@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://64.media.tumblr.com/e74caa35f8e76dc32e9170302b43597e/47e520eb5d3cf2db-b5/s540x810/fb10dacf674cb5726091371aa755bee47d7124b0.gifv">
+    <img src="https://64.media.tumblr.com/e74caa35f8e76dc32e9170302b43597e/47e520eb5d3cf2db-b5/s540x810/fb10dacf674cb5726091371aa755bee47d7124b0.gif">
 </div>
 
 <h1 align="center">Hi :video_game:, I'm Christopher PEREZ</h1>
@@ -13,7 +13,7 @@
 
 <p align="center">
   <a href="">
-    <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,symfony,python,wordpress,bootstrap,vscode,codepen,discord,figma,ps" style="display: flex; justify-content: center; align-items: center;"/>
+    <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,symfony,python,threejs,wordpress,bootstrap,vscode,codepen,discord,figma,ps" style="display: flex; justify-content: center; align-items: center;"/>
   </a>
 </p>
 
