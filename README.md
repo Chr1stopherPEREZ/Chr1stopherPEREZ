@@ -1,7 +1,3 @@
-<div align="center">
-    <img src="https://64.media.tumblr.com/e74caa35f8e76dc32e9170302b43597e/47e520eb5d3cf2db-b5/s540x810/fb10dacf674cb5726091371aa755bee47d7124b0.gif">
-</div>
-
 <h1 align="center">Hi :video_game:, I'm Christopher PEREZ</h1>
 <h3 align="center">Developer from Earth, Europe, France, My Shoes</h3>
 <h3 align="center">Connect with me:</h3>
@@ -17,15 +13,13 @@
   </a>
 </p>
 
-<h3 align="center">My Universe:</h3>
-
 <div align="center">
     <a href="https://ibb.co/DWSxq8P">
-        <img src="https://i.ibb.co/c37GmCK/Acronyme.png" alt="Acronyme" border="0">
+        <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/81c0262b-037a-4f2b-b1eb-0c055c486fe2/daujk7r-a6a8fd6b-10dc-483b-bb23-a9f4cdd1bfb3.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzgxYzAyNjJiLTAzN2EtNGYyYi1iMWViLTBjMDU1YzQ4NmZlMlwvZGF1ams3ci1hNmE4ZmQ2Yi0xMGRjLTQ4M2ItYmIyMy1hOWY0Y2RkMWJmYjMuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.LNdPGh1uneY8bZogs-UnYJLPPVn0bU2uX-3Ce_UrxXw" alt="Acronyme" border="0">
     </a>
 </div>
 
 <details>
   <summary align="center">Credits</summary><p align="center">
-    <sub>*All rights are reserved to different artists & contributors: Arthurtng/Empyrea/Nøir Nøir/Shulk/Laoyepo/Nipuni - Jenna Coleman/Valentina Zenere/Dylan O'Brien/Pedro Pascal/Alex Kingston & Thank you to <b>FLORENT BACCARD</b> for guiding me on using GitHub*</sub>
+    <sub>*All rights are reserved to <b>pixeljeff</b> & Thank you to <b>FLORENT BACCARD</b> for guiding me on using GitHub*</sub>
 </p></details>
