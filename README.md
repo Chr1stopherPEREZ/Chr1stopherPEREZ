@@ -1,5 +1,5 @@
 <h1 align="center">Hi :video_game:, I'm Christopher PEREZ</h1>
-<h3 align="center">Developer from Earth, Europe, France, My Shoes</h3>
+<h3 align="center">Student from Earth, Europe, France, My Shoes</h3>
 <h3 align="center">Connect with me:</h3>
 
 <p align="center">
@@ -9,7 +9,7 @@
 
 <p align="center">
   <a href="">
-    <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,symfony,python,threejs,wordpress,bootstrap,vscode,codepen,discord,figma,ps" style="display: flex; justify-content: center; align-items: center;"/>
+    <img src="https://skillicons.dev/icons?i=html,css,wordpress,mysql,js,ts,nodejs,threejs,kotlin,python,php,bootstrap,figma" style="display: flex; justify-content: center; align-items: center;"/>
   </a>
 </p>
 
