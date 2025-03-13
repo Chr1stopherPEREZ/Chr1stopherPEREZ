@@ -9,7 +9,7 @@
 
 <p align="center">
   <a href="">
-    <img src="https://skillicons.dev/icons?i=html,css,wordpress,mysql,js,ts,nodejs,threejs,kotlin,python,php,bootstrap,figma" style="display: flex; justify-content: center; align-items: center;"/>
+    <img src="https://skillicons.dev/icons?i=html,css,wordpress,js,ts,mysql,mongodb,postgresql,figma,docker,nodejs,threejs,java,python,php,kotlin,tailwind,bootstrap" style="display: flex; justify-content: center; align-items: center;"/>
   </a>
 </p>
 
